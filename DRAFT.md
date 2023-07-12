@@ -6,4 +6,4 @@
 - [Gitee](https://gitee.com/Haschwalth1/starred)
 - [Github](https://github.com/1Haschwalth?tab=stars)
 
-（That's all for now）
+（Just These）
