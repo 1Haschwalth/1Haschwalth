@@ -1,4 +1,3 @@
-
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23000000&height=60&lines=print(%22Hello+World!%22)">
 
 ### Follow me😉
