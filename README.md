@@ -1,4 +1,6 @@
-## “Hello, World!”👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23000000&height=60&lines=print(%22Hello+World!%22)">
+
 ### Follow me😉
 [![Static Badge](https://img.shields.io/badge/Github-black?style=for-the-badge)](https://github.com/1Haschwalth)
 [![Static Badge](https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-8A2BE2?style=for-the-badge)](https://afdian.net/a/Haschwalth15)
