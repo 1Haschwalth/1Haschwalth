@@ -7,4 +7,4 @@
 - [Gitee](https://gitee.com/Haschwalth1/starred)
 - [Github](https://github.com/1Haschwalth?tab=stars)
 
-（Only Offer These）
+（ONLY These are available）
