@@ -6,3 +6,5 @@
 [![Static Badge](https://img.shields.io/badge/bilibili-%23FB7299?style=for-the-badge)](https://space.bilibili.com/323328689?spm_id_from=333.1007.0.0)
 [![Static Badge](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%230066ff?style=for-the-badge)](https://www.zhihu.com/people/qian-meng-chu-wang)
 ![huamurui](https://raw.githubusercontent.com/huamurui/huamurui/main/assets/github-contribution-grid-snake.svg)
+<details><summary>常在的线上社群</summary>
+</details>
