@@ -6,9 +6,9 @@
 [![Static Badge](https://img.shields.io/badge/爱发电-8A2BE2?style=for-the-badge)](https://afdian.net/a/Haschwalth15)
 [![Static Badge](https://img.shields.io/badge/bilibili-E84B85?style=for-the-badge)](https://space.bilibili.com/323328689?spm_id_from=333.1007.0.0)
 [![Static Badge](https://img.shields.io/badge/知乎-056DE8?style=for-the-badge)](https://www.zhihu.com/people/qian-meng-chu-wang)
-[![Static Badge](https://img.shields.io/badge/豆瓣-darkgreen?style=for-the-badge)](https://www.douban.com/people/269982048/?_i=0346849CkBMbRL,0346860CkBMbRL)
 
 **SELDOM:**
+[![Static Badge](https://img.shields.io/badge/豆瓣-darkgreen?style=for-the-badge)](https://www.douban.com/people/269982048/?_i=0346849CkBMbRL,0346860CkBMbRL)
 [![Static Badge](https://img.shields.io/badge/机核GCORES-crimson?style=for-the-badge)](https://www.gcores.com/users/668790/bookmarks?tab=articles&page=1)
 [![Static Badge](https://img.shields.io/badge/CSDN-orangered?style=for-the-badge)](https://blog.csdn.net/Haschwalth_?type=collect)
 [![Static Badge](https://img.shields.io/badge/Gitee-crimson?style=for-the-badge)](https://gitee.com/Haschwalth1)
