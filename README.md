@@ -4,8 +4,8 @@
 **OFTEN:**
 [![Static Badge](https://img.shields.io/badge/Github-black?style=for-the-badge)](https://github.com/1Haschwalth)
 [![Static Badge](https://img.shields.io/badge/爱发电-8A2BE2?style=for-the-badge)](https://afdian.net/a/Haschwalth15)
-[![Static Badge](https://img.shields.io/badge/bilibili-%23FB7299?style=for-the-badge)](https://space.bilibili.com/323328689?spm_id_from=333.1007.0.0)
-[![Static Badge](https://img.shields.io/badge/知乎-%230066ff?style=for-the-badge)](https://www.zhihu.com/people/qian-meng-chu-wang)
+[![Static Badge](https://img.shields.io/badge/bilibili-E84B85?style=for-the-badge)](https://space.bilibili.com/323328689?spm_id_from=333.1007.0.0)
+[![Static Badge](https://img.shields.io/badge/知乎-056DE8?style=for-the-badge)](https://www.zhihu.com/people/qian-meng-chu-wang)
 
 **SELDOM:**
 [![Static Badge](https://img.shields.io/badge/豆瓣-darkgreen?style=for-the-badge)](https://www.douban.com/people/269982048/?_i=0346849CkBMbRL,0346860CkBMbRL)
