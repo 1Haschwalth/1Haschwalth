@@ -12,5 +12,3 @@
 [![Static Badge](https://img.shields.io/badge/机核GCORES-crimson?style=for-the-badge)](https://www.gcores.com/users/668790/bookmarks?tab=articles&page=1)
 [![Static Badge](https://img.shields.io/badge/CSDN-orangered?style=for-the-badge)](https://blog.csdn.net/Haschwalth_?type=collect)
 [![Static Badge](https://img.shields.io/badge/Gitee-crimson?style=for-the-badge)](https://gitee.com/Haschwalth1)
-
-![snake](https://raw.githubusercontent.com/huamurui/huamurui/main/assets/github-contribution-grid-snake.svg)
