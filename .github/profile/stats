@@ -1,0 +1,6 @@
+my_github_stats = {
+    'overview': 'https://github-readme-stats.vercel.app/api?username=1Haschwalth',
+    'streak': 'https://github-readme-streak-stats.herokuapp.com/?user=1Haschwalth&theme=radical&hide_border=true',
+    'trophies': 'https://github-profile-trophy.vercel.app/?username=1Haschwalth&theme=onedark&row=2&column=3',
+    'activity': 'https://github-readme-activity-graph.vercel.app/graph?username=1Haschwalth&theme=github-compact'
+}
